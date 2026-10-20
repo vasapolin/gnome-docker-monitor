@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: docker-monitor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Images"
+msgstr ""
+
+msgid "templates that containers are created from"
+msgstr ""
+
+msgid "Containers"
+msgstr ""
+
+msgid "files written inside them; reclaimable = stopped containers"
+msgstr ""
+
+msgid "Volumes"
+msgstr ""
+
+msgid "persistent data, such as databases"
+msgstr ""
+
+msgid "Build cache"
+msgstr ""
+
+msgid "speeds up rebuilds, safe to delete"
+msgstr ""
+
+msgid "Docker Monitor"
+msgstr ""
+
+msgid "Loading…"
+msgstr ""
+
+msgid "Total usage"
+msgstr ""
+
+msgid "Needs attention"
+msgstr ""
+
+msgid "Containers by project"
+msgstr ""
+
+msgid "Disk space"
+msgstr ""
+
+msgid "Docker is not responding"
+msgstr ""
+
+msgid "Check that the service is running: systemctl status docker"
+msgstr ""
+
+msgid "Processor"
+msgstr ""
+
+msgid "all containers combined, as a share of all %d cores"
+msgstr ""
+
+msgid "of %s on this computer (%d%%)"
+msgstr ""
+
+msgid "Memory"
+msgstr ""
+
+msgid "%s  ·  check with: docker logs %s"
+msgstr ""
+
+msgid "CPU"
+msgstr ""
+
+msgid "RAM"
+msgstr ""
+
+msgid "No Compose"
+msgstr ""
+
+msgid "Click a project to see its containers."
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Reclaimable"
+msgstr ""
+
+msgid "%s  ·  %s of %s in use"
+msgstr ""
+
+msgid "Total used by Docker"
+msgstr ""
+
+msgid "%s can be freed with: docker system prune. Click above for details."
+msgstr ""
+
+msgid "Nothing to free: everything is in use. Click above for details."
+msgstr ""
+
+msgid "Updated at %s. Refreshes every %d s while this menu is open."
+msgstr ""
+
+msgid "%d container running"
+msgid_plural "%d containers running"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d needs attention"
+msgid_plural "%d need attention"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d container"
+msgid_plural "%d containers"
+msgstr[0] ""
+msgstr[1] ""
+

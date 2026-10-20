@@ -1,0 +1,9 @@
+{
+  "uuid": "docker-monitor@vasapolin",
+  "name": "Docker Monitor",
+  "description": "See running containers, CPU, memory and Docker disk usage from the top bar. Containers are grouped by Compose project, problems are highlighted, and every number is explained. Docker is only queried while the menu is open.",
+  "shell-version": ["48", "49", "50"],
+  "url": "https://github.com/vasapolin/gnome-docker-monitor",
+  "gettext-domain": "docker-monitor",
+  "version": 1
+}

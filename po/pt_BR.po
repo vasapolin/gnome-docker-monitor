@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: docker-monitor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Images"
+msgstr "Imagens"
+
+msgid "templates that containers are created from"
+msgstr "modelos de onde os containers são criados"
+
+msgid "Containers"
+msgstr "Containers"
+
+msgid "files written inside them; reclaimable = stopped containers"
+msgstr "arquivos gravados neles; liberável = containers parados"
+
+msgid "Volumes"
+msgstr "Volumes"
+
+msgid "persistent data, such as databases"
+msgstr "dados persistentes, como bancos de dados"
+
+msgid "Build cache"
+msgstr "Cache de build"
+
+msgid "speeds up rebuilds, safe to delete"
+msgstr "acelera rebuilds, pode ser apagado"
+
+msgid "Docker Monitor"
+msgstr "Monitor do Docker"
+
+msgid "Loading…"
+msgstr "Carregando…"
+
+msgid "Total usage"
+msgstr "Uso total"
+
+msgid "Needs attention"
+msgstr "Precisa de atenção"
+
+msgid "Containers by project"
+msgstr "Containers por projeto"
+
+msgid "Disk space"
+msgstr "Espaço em disco"
+
+msgid "Docker is not responding"
+msgstr "O Docker não está respondendo"
+
+msgid "Check that the service is running: systemctl status docker"
+msgstr "Verifique se o serviço está ativo: systemctl status docker"
+
+msgid "Processor"
+msgstr "Processador"
+
+msgid "all containers combined, as a share of all %d cores"
+msgstr "soma de todos os containers, em %% dos %d núcleos"
+
+msgid "of %s on this computer (%d%%)"
+msgstr "de %s do computador (%d%%)"
+
+msgid "Memory"
+msgstr "Memória"
+
+msgid "%s  ·  check with: docker logs %s"
+msgstr "%s  ·  veja com: docker logs %s"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "RAM"
+msgstr "RAM"
+
+msgid "No Compose"
+msgstr "Sem compose"
+
+msgid "Click a project to see its containers."
+msgstr "Clique num projeto para ver os containers dele."
+
+msgid "Size"
+msgstr "Ocupa"
+
+msgid "Reclaimable"
+msgstr "Liberável"
+
+msgid "%s  ·  %s of %s in use"
+msgstr "%s  ·  %s de %s em uso"
+
+msgid "Total used by Docker"
+msgstr "Total usado pelo Docker"
+
+msgid "%s can be freed with: docker system prune. Click above for details."
+msgstr "Dá pra liberar %s com: docker system prune. Clique acima para detalhar."
+
+msgid "Nothing to free: everything is in use. Click above for details."
+msgstr "Nada a liberar: tudo que existe está em uso. Clique acima para detalhar."
+
+msgid "Updated at %s. Refreshes every %d s while this menu is open."
+msgstr "Atualizado às %s. Atualiza a cada %d s enquanto o menu está aberto."
+
+msgid "%d container running"
+msgid_plural "%d containers running"
+msgstr[0] "%d container rodando"
+msgstr[1] "%d containers rodando"
+
+msgid "%d needs attention"
+msgid_plural "%d need attention"
+msgstr[0] "%d com problema"
+msgstr[1] "%d com problema"
+
+msgid "%d container"
+msgid_plural "%d containers"
+msgstr[0] "%d container"
+msgstr[1] "%d containers"
+

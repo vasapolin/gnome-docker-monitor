@@ -1,0 +1,31 @@
+.docker-monitor-menu {
+  min-width: 30em;
+}
+
+.docker-monitor-title {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.docker-monitor-name {
+  min-width: 16em;
+}
+
+.docker-monitor-num {
+  font-family: monospace;
+  min-width: 8em;
+  text-align: right;
+}
+
+.docker-monitor-hint {
+  color: #9a9996;
+  font-size: 0.85em;
+}
+
+.docker-monitor-warn {
+  color: #f5c211;
+}
+
+.docker-monitor-arrow-space {
+  width: 16px;
+}
